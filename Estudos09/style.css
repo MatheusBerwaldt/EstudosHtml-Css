@@ -2,7 +2,7 @@
 body{
     font-family: 'Work Sans', Arial, Helvetica, sans-serif;
     font-size: 1em;
-    /* Usar ou PX (Absoluta) ou EM (Relativa) para fonte*/
+    /* Use PX (Absoluta) or EM (Relativa) for font*/
     /*16px = 1em */
     font-weight: normal;
     /*lighter(100), normal(400), bold, bolder */

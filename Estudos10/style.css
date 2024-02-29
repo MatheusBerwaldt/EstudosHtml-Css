@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+/*
+    In Html is ID in Css is #
+    In Html is Class in Css is .
+*/
+body{
+    background-color: rgb(128, 241, 128);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: green;
+}
+#principal{
+    text-align: center;
+    background-color: antiquewhite;
+}
+h2{
+    color: rgb(2, 184, 2);
+}
